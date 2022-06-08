@@ -13,7 +13,7 @@ API_ID = "18885110"
 # Session string by login.py
 SESSION_STRING = "BABTkvYx6ccM5TtIP4Apmopk_H-kz1jwSgBYmIhI4cdMQPYQ2tI0kJz8SOPiBPPbxtR7Kg5nqFs7rDFwr7Tgh79HjT_bpShMvGwM5tScarBKMclrpr0A2CKzEr53PYweu0GMkc4vh05lo6EgfXQ_oOy3KKUy5OKI6x5aJ-8NRVFZlluje2A7S6rssIMEiz2cD_D17e2_cOcVvEYLjX02vj1Gzbb6Jx06Gl_vSJ_h1HB51tJaPb4IIzuK5zaX0CV_mOOhnlWi55ZzWSIathFkF1KdaD1J1uzbB4skwWgdIeK-398R7x-KT01bWzlPKucrFxBSSJZjk0vcEOs70e6cqyAAAAAEzgK4EA"
 SOURCE_CHAT = '@sicakindirimn'
-TARGET_CHAT = '@denemea1'
+TARGET_CHAT = '@twitterbotss'
 # Timeout after 50 messages
 LIMIT_TO_WAIT = 50
 
